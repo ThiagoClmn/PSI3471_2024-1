@@ -29,7 +29,7 @@ Oferecimento da disciplina no 1° semestre de 2024
 **EPs desenvolvidos**
 - EP P1 DO MAGNO
 
-- Algoritmo de identificação de grãos de pistache (database do Kaggle - ![Pistachio Image Dataset](https://www.kaggle.com/datasets/muratkokludataset/pistachio-image-dataset))
+- Algoritmo de identificação de grãos de pistache (database do Kaggle - [Pistachio Image Dataset](https://www.kaggle.com/datasets/muratkokludataset/pistachio-image-dataset))
 
 Na pasta deste ![link aqui](https://github.com/ThiagoClmn/PSI3471_2024-1/tree/main/EP%20do%20Hae), poderemos encontrar o ![EP](https://github.com/ThiagoClmn/PSI3471_2024-1/blob/main/EP%20do%20Hae/EP2_PSI3471_Gustavo_Thiago.ipynb) e o ![Relatório](https://github.com/ThiagoClmn/PSI3471_2024-1/blob/main/EP%20do%20Hae/Relat%C3%B3rio_EP_PSI3471-Hae_2024.docx.pdf) 
 
