@@ -21,11 +21,16 @@ Oferecimento da disciplina no 1° semestre de 2024
 - Extração de atributos;
 - Aprendizado profundo para processamento de imagens; rede neural convolucional em processamento de imagens
 
-
 **Ferramentas usadas:**
 - Linguagem C++
 - Linguagem Python
 - Bibliotecas do Python: Numpy, Pandas, Matplotlib, Tensorflow e Keras, Pytorch, OpenCV
+
+**EPs desenvolvidos**
+- EP P1 DO MAGNO
+
+- Algoritmo de identificação de grãos de pistache (database do Kaggle - ![]()Pistachio Image Dataset)
+Na pasta deste link, poderemos encontrar o ![EP](https://github.com/ThiagoClmn/PSI3471_2024-1/blob/main/EP%20do%20Hae/EP2_PSI3471_Gustavo_Thiago.ipynb) e o ![Relatório](https://github.com/ThiagoClmn/PSI3471_2024-1/blob/main/EP%20do%20Hae/Relat%C3%B3rio_EP_PSI3471-Hae_2024.docx.pdf) 
 
 **Bibliografia**
 [1] Simon Haykin, “Neural Networks and Learning Machines,” Prentice Hall, 2009.
