@@ -25,7 +25,7 @@ Oferecimento da disciplina no 1° semestre de 2024
 **Ferramentas usadas:**
 - Linguagem C++
 - Linguagem Python
-- Bibliotecas do Python: NUmpy, Pandas, Matplotlib, Tensorflow e Keras, Pytorch, OpenCV
+- Bibliotecas do Python: Numpy, Pandas, Matplotlib, Tensorflow e Keras, Pytorch, OpenCV
 
 **Bibliografia**
 [1] Simon Haykin, “Neural Networks and Learning Machines,” Prentice Hall, 2009.
